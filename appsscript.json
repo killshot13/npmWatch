@@ -1,0 +1,14 @@
+{
+  "timeZone": "America/Chicago",
+  "dependencies": {},
+  "dataStudio": {
+    "name": "npmWatch",
+    "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png",
+    "company": "STHCoders",
+    "companyUrl": "https://www.linkedin.com/showcase/sthcoders/",
+    "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
+    "supportUrl": "https://github.com/google/datastudio/issues",
+    "description": "Get npm package download counts.",
+    "sources": ["npm"]
+  }
+}
